@@ -6,4 +6,6 @@ Curso de Infraestrutura Web
 
 git checkout -b tiago-pariz
 
-git checkout tiago-pariz
+git checkout jose-silva
+
+conflitos
