@@ -6,4 +6,4 @@ Curso de Infraestrutura Web
 
 git checkout -b tiago-pariz
 
-git checkout main
+git checkout tiago-pariz
